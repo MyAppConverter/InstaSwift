@@ -1,0 +1,6 @@
+{
+  "name": "InstaSwift",
+  "tagline": "",
+  "body": "### Welcome to InstaSwift.\r\nThe only plugin that lets you convert your Objective-C code snippets to Swift, instantly and directly into your Xcode console.\r\n\r\n### Install\r\nPast this into your terminal:\r\n\r\n    curl -fsSl https://xcodeplugin.myappconverter.com/install.sh | sh\r\n\r\n_InstaSwift is available for Xcode 7+ only_ \r\n\r\n### Uninstall\r\nDelete the plugin:\r\n\r\n    rm -rf ~/Library/Application\\ Support/Developer/Shared/Xcode/Plug-ins/instaSwift.xcplugin\r\n\r\n### Usage\r\n1. Select your Objective-C code \r\n2. Right click on selected code > Convert to Swift\r\n3. Get your Swift translated code from the Xcode console\r\n\r\n### Info\r\nInstaSwift is still a work in progress that will be updated regularly, also please note that InstaSwift is and will stay a snippet code translator.\r\n\r\nIf you want to port your complete Objective-C project to Swift please refer to our full project converter that you can access via your Dashboard for free.\r\n\r\nIf you have any feedback or comment please post it on the forum, so we can work on improving your experience on InstaSwift.\r\n\r\n \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
